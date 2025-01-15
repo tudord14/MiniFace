@@ -28,7 +28,7 @@ import cv2
 IMG_WIDTH = 48
 IMG_HEIGHT = 48
 BATCH_SIZE = 32
-EPOCHS = 20
+EPOCHS = 50
 
 # Paths for necessary directories/files
 base_dir = os.path.dirname(os.path.abspath(__file__))
