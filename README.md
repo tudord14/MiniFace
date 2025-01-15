@@ -72,8 +72,6 @@ To train the model, you need two datasets:
 
 Follow these steps to generate the datasets:
 
----
-
 #### **1. Generate the 🔴False Dataset (Neutral Faces from FER2013)**
 Run the `extract_false_images.py` script to extract neutral face images from the FER2013 dataset:
 ```bash
