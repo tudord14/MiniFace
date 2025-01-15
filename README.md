@@ -101,6 +101,7 @@ What it does:
 2. Opens your webcam and records video for a user-defined duration.
 3. Extracts and preprocesses the detected faces into 48x48 grayscale images.
 4. Saves the processed images in the data/True folder.
+![Figure_1](https://github.com/user-attachments/assets/b8177077-40f0-4e4f-9ec2-07c21a97efae)
 
 
 ---
