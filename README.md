@@ -94,6 +94,7 @@ Run the `extract_true_images.py` script to extract face images either from a per
 ```bash
 python scripts/extract_true_images.py
 ```
+**If you truly want the model to have a strong prediction ability I suggest the recording to be >30 seconds and to have a variety of backgrounds and lighting**
 
 What it does:
 1. Gives you a chance to use your own videos that you can store in the videos directory or to record a new video on the spot
